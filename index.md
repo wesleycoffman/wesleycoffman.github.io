@@ -1,4 +1,4 @@
-#### Site Map
+# Site Map
 
 - [Page](http://wesleycoffman.github.io/page) 
 
