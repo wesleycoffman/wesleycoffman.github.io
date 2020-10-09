@@ -39,7 +39,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### I am creating content!
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-
-### Other Page
-
-[Other Page!](wesleycoffman.github.io/webpage.md)
