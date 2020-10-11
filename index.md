@@ -1,6 +1,6 @@
 # Site Map
 
-- [Page](http://wesleycoffman.github.io/page) 
+- [Adventure Quest Writeup](http://wesleycoffman.github.io/Adventure Quest Writeup) 
 
 ## Welcome to GitHub Pages
 
