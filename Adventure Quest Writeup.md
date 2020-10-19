@@ -1,3 +1,12 @@
+# Questions
+
+| **Question**                             | **Answer** |
+|------------------------------------------|------------|
+| Need help with project Idea              |      N      |
+| Need help setting up a private team room |      Y      |
+| Who is your presenter                    |      ?      |
+| Project category                         |     OTC Scanning       |
+
 # Site Map
 
 - [Home](http://wesleycoffman.github.io/) 
